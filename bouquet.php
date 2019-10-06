@@ -8,8 +8,6 @@ if (isset($_POST["submit_bouquet"])) {
         $rBouquetData = json_decode($_POST["bouquet_data"], True);
         $rArray["bouquet_channels"] = array_values($rBouquetData["stream"]);
         $rArray["bouquet_series"] = array_values($rBouquetData["series"]);
-    } else {
-        echo "Bouquet data not transfered!"; exit;
     }
     foreach($_POST as $rKey => $rValue) {
         if (isset($rArray[$rKey])) {
