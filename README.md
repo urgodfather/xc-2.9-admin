@@ -1,5 +1,5 @@
-# xc-2.9-nulled
-Xtreamcodes 2.9 Nulled
+# XC 2.9 Admin
+XtreamCodes 2.9 Admin web interface
 
 
 # How to install
