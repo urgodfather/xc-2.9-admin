@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A web interface that connects with the database of XtreamCodes 2.9 for resellers to work
+A web interface that connects with the database of XtreamCodes 2.9 for adminsa
 
 #### Features:
 
